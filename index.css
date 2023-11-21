@@ -1,0 +1,17 @@
+.card {
+    border: none;
+    background-color: #f8f9fa; 
+  }
+
+  
+  .container {
+    background-color: #f8f9fa; 
+  }
+body {
+    font-family: 'serif';
+    color: #808080;
+  }
+  
+  .navbar-brand, .nav-link, .btn-outline-secondary {
+    font-family: 'serif'; 
+  }
